@@ -1,1 +1,2 @@
-#git test
+#git test - höfundur
+###Guðmundur Jón Guðjónsson
